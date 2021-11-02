@@ -10,7 +10,7 @@ else
 
   hugo
 
-  cd public
+  cd ilanprice.github.io
   git add -A
   git commit -am "$1"
   git push
