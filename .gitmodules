@@ -1,0 +1,4 @@
+[submodule "ilanprice.github.io"]
+	path = ilanprice.github.io
+	url = https://github.com/IlanPrice/ilanprice.github.io
+	branch = main
